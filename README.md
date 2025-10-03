@@ -35,3 +35,7 @@ The paper evaluate various expert finding (EF) methods to analyze their performa
 - [BGER](https://github.com/vaibhavkrshn/UMAP-t-BGER): Uses graph diffusion incorporating semantic and temporal data to capture evolving user expertise. 
 - [TUEF](https://github.com/maddalena-amendola/TUEF): A topic-based multi-layer graph approach that links user content and social information. We adapt it by treating all answerers as potential experts to standardize evaluation. 
 - [DSSM](https://github.com/NTMC-Community/MatchZoo-py.git): A learn-to-rank model based on historical responses, aggregating questions previously answered by each user.
+
+## Citation
+Seyedehfatemeh Karimi, Havva Alizadeh Noughabi, Fattane Zarrinkalam, and Morteza Zihayat, "Who Gets to be an Expert? The Hidden Bias in Expert Finding", 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025).
+
